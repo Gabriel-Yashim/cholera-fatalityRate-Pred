@@ -10,7 +10,7 @@ import pickle
 import streamlit as st
 
 
-model = pickle.load(open('C:/Users/SHOPINVERSE/Documents/Jobs_Folder/Cholera prediction/Catboost_classifier.pkl', 'rb'))
+model = pickle.load(open('Catboost_classifier.pkl', 'rb'))
 
 
 st.title('Cholera Cases Fatality Rate Prediction System')
