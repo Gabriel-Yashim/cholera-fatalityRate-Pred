@@ -1,0 +1,1 @@
+streamlit run "C:\Users\SHOPINVERSE\Documents\Jobs_Folder\Cholera prediction\streamlit_app.py"
